@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Berlin</h1>
 <h3 align="center">A passionate Fullstack developer from India</h3>
 
+<img src="./github-header-image.png"/>
+
 - 🔭 I’m currently working on **Developing an app from scratch**
 
 - 🌱 I’m currently learning **Node JS, .NET MVC**
